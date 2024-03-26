@@ -1,5 +1,5 @@
 # Internal-OCR-Tool
-The Internal OCR Tool is an in-house developed application aimed at transforming physical documents and images into editable and searchable digital formats. Designed with a focus on enhancing data security, reducing operational costs, and ensuring compliance with global data protection regulations, this tool addresses the limitations and privacy concerns associated with external OCR services.
+The Internal OCR Tool is an open-source developed application aimed at transforming physical documents and images into editable and searchable digital formats. Designed with a focus on enhancing data security, reducing operational costs, and ensuring compliance with global data protection regulations, this tool addresses the limitations and privacy concerns associated with external OCR services.
 
 Key Features:
 
